@@ -2,7 +2,7 @@
 
 Grupo 4: Boris Arco, Patricia Ojier, Javier Tolrraz, Ignacio Lucero
 
-*El home page de la proyecto se añadio hace poco, para realizar las pruebas de los posts ir a la ruta /posts
+*El home page de la proyecto se añadio hace poco, para realizar las pruebas de los posts ir a la ruta /posts con el usuario previamente iniciado
 
 1.- Se agrega la gema devise y se crean 2 usuarios: ignacio.mlucero@gmail.com, contraseña:asd123456, ignaciolum94@gmail.com, contraseña:asd123456. 
 
