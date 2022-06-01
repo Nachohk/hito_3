@@ -1,0 +1,90 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+html{
+    scroll-behavior: auto !important;
+}
+
+.navbar{
+   position: fixed;
+    /* z-index: 1; */
+
+    width: 100vw;
+    background-color: orange;
+    border:auto;
+}
+
+.nav-light{
+    color: white;
+}
+
+.boton-next, .boton-prev{
+    z-index: 0;
+  }
+
+
+body{
+    color: white;
+    background-color: #272222;
+}
+
+#text{
+    border: #272222;
+}
+
+.card-border{
+    border: 1px solid white;
+}
+.card-header{
+    background-color: #006E7F;
+}
+.card-footer{
+    background-color: darkturquoise;
+}
+.card-body{
+    background-color: #272222;
+    text-align: left;
+    padding: 0%;
+    ;
+}
+
+
+.card-body2{
+    background-color: #006E7F;
+    text-align: left;
+}
+
+.mb-3{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.btn{
+    background-color: darkturquoise;
+    margin-left: 2rem;
+    height: 30px;
+    width: 85px;
+    text-align: justify;
+}
+
+.imagen{
+    height: 283px;
+    width: 283px;
+}
+
+#footer{
+    background-color: orange;
+    margin-top: 3rem;
+}
+
+#footer a{
+    color: white;
+    text-decoration: none;
+}
+
+.carousel-item {
+    position:relative;
+}
